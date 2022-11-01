@@ -1,3 +1,4 @@
 # OpenBootcamp
 Practicas 
-Parte 1 y Parte 2
+Aqui es donde estarán todas las tareas realizadas
+del Curso Introduccion a la Programación
